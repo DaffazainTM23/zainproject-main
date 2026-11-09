@@ -21,7 +21,7 @@
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/ai-studio-google/default.svg" width="48" height="48" alt="AI Studio"><br><sub>AI Studio</sub></td>
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/ansys/default.svg" width="48" height="48" alt="ANSYS"><br><sub>ANSYS</sub></td>
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/antigravity-google/default.svg" width="48" height="48" alt="Antigravity"><br><sub>Antigravity</sub></td>
-<td align="center" width="11.11%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/apple/light.svg"><img src="https://thesvg.org/icons/apple/dark.svg" width="48" height="48" alt="Apple"></picture><br><sub>Apple</sub></td>
+<td align="center" width="11.11%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/apple/mono.svg"><img src="https://thesvg.org/icons/apple/dark.svg" width="48" height="48" alt="Apple"></picture><br><sub>Apple</sub></td>
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/autocad/default.svg" width="48" height="48" alt="AutoCAD"><br><sub>AutoCAD</sub></td>
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/openai-chatgpt/default.svg" width="48" height="48" alt="ChatGPT"><br><sub>ChatGPT</sub></td>
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/chrome/default.svg" width="48" height="48" alt="Chrome"><br><sub>Chrome</sub></td>
