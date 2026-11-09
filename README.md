@@ -22,9 +22,7 @@
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/ansys/default.svg" width="48" height="48" alt="ANSYS"><br><sub>ANSYS</sub></td>
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/antigravity-google/default.svg" width="48" height="48" alt="Antigravity"><br><sub>Antigravity</sub></td>
 <td align="center" width="11.11%">
-  <img src="https://thesvg.org/icons/apple/dark.svg" width="48" height="48" alt="Apple">
-  <br><sub>Apple</sub>
-</td>
+<td align="center" width="11.11%"><img src="https://cdn.simpleicons.org/apple/000000" width="48" height="48" alt="Apple"><br><sub>Apple</sub></td>
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/autocad/default.svg" width="48" height="48" alt="AutoCAD"><br><sub>AutoCAD</sub></td>
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/openai-chatgpt/default.svg" width="48" height="48" alt="ChatGPT"><br><sub>ChatGPT</sub></td>
 <td align="center" width="11.11%"><img src="https://thesvg.org/icons/chrome/default.svg" width="48" height="48" alt="Chrome"><br><sub>Chrome</sub></td>
@@ -61,9 +59,7 @@
 <td align="center"><img src="https://thesvg.org/icons/microsoft-teams/default.svg" width="48" height="48" alt="Teams"><br><sub>Teams</sub></td>
 <td align="center"><img src="https://thesvg.org/icons/typescript/default.svg" width="48" height="48" alt="TypeScript"><br><sub>TypeScript</sub></td>
 <td align="center" width="11.11%">
-  <img src="https://thesvg.org/icons/vercel/dark.svg" width="48" height="48" alt="Vercel">
-  <br><sub>Vercel</sub>
-</td>
+<td align="center" width="11.11%"><img src="https://cdn.simpleicons.org/vercel/000000" width="48" height="48" alt="Vercel"><br><sub>Vercel</sub></td>
 <td align="center"><img src="https://thesvg.org/icons/visual-studio-code/default.svg" width="48" height="48" alt="VS Code"><br><sub>VS Code</sub></td>
 <td align="center"><img src="https://thesvg.org/icons/microsoft-word/default.svg" width="48" height="48" alt="Word"><br><sub>Word</sub></td>
 </tr>
